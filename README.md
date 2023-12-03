@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Aninterestedd
+- 👋 Hi, I’m Anirudh
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning prgramming languages
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning programming languages
 
 <!---
 Aninterestedd/Aninterestedd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
